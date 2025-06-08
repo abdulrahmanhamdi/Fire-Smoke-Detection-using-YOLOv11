@@ -103,8 +103,8 @@ $ yolo detect model=best.pt source=path/to/image_or_video
 ## 📷 Example Inference
 
 <p align="center">
-  <img src="examples/indoor_fire.jpg" width="400" alt="Indoor Fire Detection">
-  <img src="examples/outdoor_smoke_fire.jpg" width="400" alt="Outdoor Detection">
+  <img src="examples/Picture1.png" width="400" alt="Indoor Fire Detection">
+  <img src="examples/Picture2.png" width="400" alt="Outdoor Detection">
 </p>
 
 ---
